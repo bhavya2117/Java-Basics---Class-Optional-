@@ -13,3 +13,5 @@ A student can or cannot have subjects associated.
 * Test coverage must be greater than 90% 
 * Checkstyle, pmd, findbugs warnings must be 0. 
 * Document every method.
+
+some changes done
